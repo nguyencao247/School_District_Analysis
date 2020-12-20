@@ -31,18 +31,21 @@ The purpose of this project is to assist Maria, a Data Scientist at the City Sch
   <p align="center"><img src="Resources/math_by_grade.PNG"> <img src="Resources/math_by_grade_chal.PNG"></p>
   Reading Scores By Grade Original vs. Reading Scores By Grade Challenge
   <p align="center"><img src="Resources/read_by_grade.PNG"> <img src="Resources/read_by_grade_chal.PNG"></p>
+  
   - Scores by school spending: there was no effect. 
   
   Original Scores by Schools:
   <p align="center"><img src="Resources/spending_summary.PNG"></p>
   Challenge Scores by Schools:
   <p align="center"><img src="Resources/spending_summary_chal.PNG"></p>    
+  
   - Scores by school size: there was no effect.
   
   Original Scores by School Size:
   <p align="center"><img src="Resources/size_summary.PNG"></p>
   Challenge Scores by School Size:
   <p align="center"><img src="Resources/size_summary_chal.PNG"></p>    
+  
   - Scores by school type: there was no effect.
   
   Original Scores by School Types:
