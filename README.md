@@ -3,7 +3,7 @@
 ## Overview of the School District Analysis
 The purpose of this project is to assist Maria, a Data Scientist at the City School District in analyzing standardized test scores and study trends. The school board has notified Maria and her supervisor that the current [student_complete.csv](https://github.com/nguyencao247/School_District_Analysis/blob/main/Resources/students_complete.csv) file shows evidence of academic dishonesty. Specifically the reading and math scores for Thomas High School ninth graders appear to have been altered. In order to provide an accurate analysis of the district’s scores, Maria has removed those scores from her analysis. We will then use this data to help the school board and superintendent make decisions regarding school budgets and other priorities. 
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: 
 - How is the district summary affected?
   - All score metrics were affected by 0.1 point or 0.1% - 0.3%, with the exception of the average reading score for the district.
   
