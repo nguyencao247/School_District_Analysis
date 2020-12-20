@@ -27,6 +27,7 @@ The purpose of this project is to assist Maria, a Data Scientist at the City Sch
   <p align="center"><img src="Resources/top_schools_chal.PNG"></p>  
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade: there was no effect on the upperclassmen’s scores as only the ninth grader’s scores were removed and the table is grouped by grades.
+  
   Math Scores By Grade Original vs. Math Scores By Grade Challenge
   <p align="center"><img src="Resources/math_by_grade.PNG"> <img src="Resources/math_by_grade_chal.PNG"></p>
   Reading Scores By Grade Original vs. Reading Scores By Grade Challenge
